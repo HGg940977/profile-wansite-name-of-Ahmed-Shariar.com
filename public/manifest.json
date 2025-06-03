@@ -1,0 +1,25 @@
+{
+  "short_name": "Ahmed Portfolio",
+  "name": "Ahmed Shariar's Portfolio",
+  "icons": [
+    {
+      "src": "tree-logo.jpeg",
+      "sizes": "64x64",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "tree-logo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "tree-logo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
