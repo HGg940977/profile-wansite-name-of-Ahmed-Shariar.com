@@ -42,21 +42,7 @@ You don’t have to ever use <code>eject</code>. The curated feature set is suit
 <p>You can learn more in the <a href="https://create-react-app.dev/docs/getting-started/">Create React App documentation</a>.<br>
 To learn React, check out the <a href="https://reactjs.org/">React documentation</a>.</p>
 
-<h2>🔍 Additional Resources</h2>
-<ul>
-    ▶ <a href="https://create-react-app.dev/docs/code-splitting/">Code Splitting</a><br>
-    ▶ <a href="https://create-react-app.dev/docs/analyzing-the-bundle-size/">Analyzing the Bundle Size</a><br>
-    ▶ <a href="https://create-react-app.dev/docs/making-a-progressive-web-app/">Making a Progressive Web App</a><br>
-    ▶ <a href="https://create-react-app.dev/docs/advanced-configuration/">Advanced Configuration</a><br>
-    ▶ <a href="https://create-react-app.dev/docs/deployment/">Deployment</a><br>
-    ▶ <a href="https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify">Troubleshooting</a>
-</ul>
 
-<h2>🎥 YouTube Link</h2>
-<p>🔰 <strong>You Can Watch Now 👉 <a href="https://youtu.be/bwd_frndXAw?si=xnRjQSf8aO2OuVTo">https://youtu.be/bwd_frndXAw?si=xnRjQSf8aO2OuVTo</a></strong></p>
-<br><br>
-<h2>👨‍💻 Devices Preview</h2>
-<img src="https://github.com/SE-LAPS/My-Portfolio-Site/assets/87580847/09de86b3-3bc6-4871-9b10-c5f6e6eb03e3" alt="Devices Preview">
 
 </body>
 </html>
