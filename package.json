@@ -14,8 +14,8 @@
   "build": "react-scripts build",
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
+    "start": "react-scripts start",
+  "build": "react-scripts build",
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
